@@ -1,5 +1,5 @@
 let newHeader = document.createElement('h1')
-h1.setAttribute('id', 'victory')
+h1.appendChild('id', 'victory')
 
 h1.innerHTML = "Neal is the champion"
 
