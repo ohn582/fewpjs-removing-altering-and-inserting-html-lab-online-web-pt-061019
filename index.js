@@ -1,7 +1,7 @@
 let newHeader = document.createElement('h1')
 h1.setAttribute('id', 'victory')
 
-h1.innerText = "Neal is the champion"
+h1.innerText = "victory"
 
 
 
