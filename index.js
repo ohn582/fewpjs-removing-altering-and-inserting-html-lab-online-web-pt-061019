@@ -1,1 +1,2 @@
-const newHeader = null;
+let h1 = document.createElement('h1')
+
