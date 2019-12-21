@@ -1,1 +1,1 @@
-// Write your code here!
+<main id='main'></main>
