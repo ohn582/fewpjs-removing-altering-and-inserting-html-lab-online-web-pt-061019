@@ -1,7 +1,7 @@
 let newHeader = document.createElement('h1')
-h1.appendChild('id', 'victory')
+newHeader.setAttribute('id', 'victory')
 
-h1.innerHTML = "Neal is the champion"
+newHeader.innerHTML = "Neal is the champion"
 
 
 
