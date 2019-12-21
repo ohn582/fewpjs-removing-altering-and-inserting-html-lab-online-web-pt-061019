@@ -1,0 +1,1 @@
+const newHeader = null;
