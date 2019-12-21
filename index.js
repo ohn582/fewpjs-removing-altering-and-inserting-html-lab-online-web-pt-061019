@@ -1,3 +1,3 @@
 let main = document.createElement('main')
 
-main.innerHTML = 
+main.innerHTML = 'main#main'
